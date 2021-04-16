@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "We all wait for summer"
+title:  "Viên sủi an thần"
 categories: [ Jekyll, tutorial ]
 image: assets/images/1.jpg
 featured: true
 ---
-This is changed. As I engage in the so-called "bull sessions" around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the "brethren" think that <a href="#">education should equip</a> them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.
+Sản phẩm cải thiện giấc ngủ, trị các chứng mất ngủ, khó ngủ, rối loạn âu lo, rối loạn giấc ngủ, thức giấc giữa đêm dựa trên công nghệ Nhật Bản được chuyển giao cho Việt Nam. Hiện sản phẩm này đang được xuất khẩu sang các nước Mỹ, châu Âu và được nhiều người sử dụng và cho phản hồi rất tích cực
 
-It seems to me that education has a two-fold function to perform in the life of man and in society: the one is utility and the other is culture. Education must enable a man to become more efficient, to achieve with increasing facility the ligitimate goals of his life.
+Thạc sĩ- Bác sĩ Nguyễn Xuân Giao là người phát minh và ứng dụng thành công phương pháp chiết siêu âm vào viên sủi an thần
