@@ -3,7 +3,7 @@ name: "Trung tâm tin tức sức khỏe"
 title: "Trung tâm tin tức sức khỏe cộng đồng"
 description: "Cung cấp thông tin về sức khỏe , mẹo cải thiện sức khỏe dành cho người Việt. Cung cấp thực phẩm chức năng, thuốc cải thiện sức khỏe cho mọi người "
 meta_description: "Cải thiện sức khỏe , chữa các bệnh mất ngủ, khó ngủ, rối loạn giấc ngủ, các bệnh về men gan, viêm gan, xương khớp, sỏi thận, tóc rụng bạc"
-logo: 'assets/images/bin.png'
+logo: 'assets/images/bin2.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
 baseurl: '/'
