@@ -1,9 +1,9 @@
 # Site
-name: "Affiliates Theme for Jekyll"
-title: "Affiliates Theme for Jekyll"
-description: "Jekyll Theme for Blogging"
-meta_description: "Jekyll theme for blogging."
-logo: 'assets/images/99ffb4fd351fc7419e0e.jpg'
+name: "Trung tâm tin tức sức khỏe"
+title: "Trung tâm tin tức sức khỏe cộng đồng"
+description: "Cung cấp thông tin về sức khỏe , mẹo cải thiện sức khỏe dành cho người Việt. Cung cấp thực phẩm chức năng, thuốc cải thiện sức khỏe cho mọi người "
+meta_description: "Cải thiện sức khỏe , chữa các bệnh mất ngủ, khó ngủ, rối loạn giấc ngủ, các bệnh về men gan, viêm gan, xương khớp, sỏi thận, tóc rụng bạc"
+logo: 'assets/images/bin.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
 baseurl: '/'
